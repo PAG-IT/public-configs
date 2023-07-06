@@ -1,0 +1,38 @@
+<site-list version="1">
+  <site url="*://newused.performancecars.ca">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="drive.connectcdk.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://connectcdk.okta.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://www.connectcdk.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://login.connectcdk.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://api.connectcdk.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="https://infostream.toyota.ca" comment="For TAS">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="http://newused.performancecars.ca/grimsbyhyundai/">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <shared-cookie domain=".connectcdk.com" name="loginId" path="" source-engine="Both">
+  </shared-cookie>
+  <shared-cookie domain=".connectcdk.com" name="ID_TOKEN" path="/" source-engine="Both">
+  </shared-cookie>
+</site-list>
