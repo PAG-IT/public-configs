@@ -23,6 +23,10 @@
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
   </site>
+  <site url="https://identity-nginx.global.connectcdk.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
   <site url="https://infostream.toyota.ca" comment="For TAS">
     <compat-mode>IE11</compat-mode>
     <open-in allow-redirect="true">IE11</open-in>
